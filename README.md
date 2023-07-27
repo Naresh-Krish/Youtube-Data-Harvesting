@@ -3,9 +3,13 @@ The project aims to develop a Streamlit application that facilitates users in ac
 
 # Tools:
 Streamlit: A Python library for creating interactive web applications with minimal effort, enabling the display of data and incorporating user inputs effectively.
+
 Google API: Specifically, the YouTube Data API, which grants access to YouTube's vast repository of data, enabling retrieval of channel and video information.
+
 MongoDB: An open-source NoSQL database that acts as a data lake, allowing the storage of unstructured data with ease.
+
 SQL Database: Utilized for structured data storage and management, providing robust query capabilities.
+
 Python: The primary programming language for the development of the application, as it offers a wealth of libraries and ease of integration with the selected tools.
 
 # Procedure:
